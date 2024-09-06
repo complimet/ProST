@@ -1,0 +1,9 @@
+﻿from,to,from_class,to_class,distcorr
+1,2,SM(D18:1),PC,0
+2,3,PC,1-acylLPC,0
+2,4,PC,2-acylLPC,0
+2,5,PC,PC(O),0
+2,6,PC,PC(P),0
+5,7,PC(O),LPC(O),0
+6,9,PC(P),LPC(P),0
+7,8,LPC(O),PC-PAF(O),0
